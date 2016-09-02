@@ -1,0 +1,6 @@
+The user interface part of our project was written in Python based on PyQt4 platform. 
+And another necessay package for this application is yaml for parsing json files.
+ You can install it by typing 'pip install pyyaml'. After installing these two libraries,
+ you can use 'python ./src/yelp_ui_pyqt4.py' to run the GUI. Then in the application window 
+you can choose a user id to search for user specified restaurant recommendations. You can also
+ use the restaurant name, stars and categories to filter the output results.
